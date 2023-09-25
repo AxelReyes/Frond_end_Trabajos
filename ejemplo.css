@@ -1,0 +1,17 @@
+
+        .custom-button {
+            background-color: #fd4eba;
+            color: #fff;
+            border: none;
+            transition: transform 2s;
+        
+        }
+
+        .custom-button:hover {
+            background-color: #e14dff;
+        }
+     
+        .custom-button:active {
+            transform: rotate(180deg);
+         
+        }
